@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Javlonbek Kosimov. You can call me Javy!</h1>
+<h2 align="center">Hi 👋, I'm Javlonbek Kosimov. You can call me Javy!</h2>
 <h3 align="center">A passionate frontend developer from Uzbekistan. Currently studying and working in Budapest, Hungary</h3>
 <div>&nbsp;</div>
 <div>
