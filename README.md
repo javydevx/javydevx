@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Javlonbek Kosimov. You can call me Javy!</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img aligh="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img aligh="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🌱 I’m currently learning **Next JS**
+🌱 I’m currently learning **Next JS**
 
-- 📫 How to reach me **javlonbek.kosimov.99@gmail.com**
+📫 How to reach me **javlonbek.kosimov.99@gmail.com**
 
-- ⚡ Fun fact **I look younger than my actual age :)**
+⚡️ Fun fact **I look younger than my actual age :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡️ Fun fact: ...
 -->
