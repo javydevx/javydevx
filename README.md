@@ -12,7 +12,7 @@
 
 ⚡ Fun fact: **I look younger than my actual age :)**
 
-📫 How to reach me **javlonbek.kosimov.99@gmail.com**
+📫 How to reach me: **javlonbek.kosimov.99@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
