@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on **my GitHub**
 
-🌱 I’m currently learning **Next JS**
+🌱 I’m currently learning **Node JS, Express JS, Mongo DB**
 
 👯 I’m looking to collaborate on **frontend development**
 
