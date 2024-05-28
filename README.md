@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan. Currently studying and working in Budapest, Hungary</h3>
 <div>&nbsp;</div>
 <div>
-  <img align="right" alt="Coding" width="300"   src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"> 
   <img align="right" alt="Coding" width="300"   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 🔭 I’m currently working on **my GitHub**
 
