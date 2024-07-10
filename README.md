@@ -75,14 +75,6 @@
   <a href="https://www.selenium.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/> 
   </a>
-  &nbsp;
-  <a href="https://robotframework.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/robotframework/robotframework-original.svg" alt="Robot Framework" width="40" height="40"/> 
-  </a>
-
-
-  
-
   &nbsp;  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
