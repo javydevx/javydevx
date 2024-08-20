@@ -101,4 +101,4 @@
 
 ![Javy's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=javy99&theme=dark) 
 
-[![Javy's Contribution Graph]](https://github-readme-activity-graph.vercel.app/graph?username=javy99&theme=react-dark)]
+[![Javy's Contribution Graph]](https://github-readme-activity-graph.vercel.app/graph?username=javy99&theme=react-dark)
