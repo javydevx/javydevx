@@ -93,7 +93,12 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
+
 ![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=radical) 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&layout=compact&theme=radical) 
+
 ![Javy's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=javy99&theme=radical) 
+
 ![Javy's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=javy99&theme=react-dark)
+
