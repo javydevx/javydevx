@@ -95,13 +95,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<div align="left">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&layout=compact&theme=dark) 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&layout=compact&theme=dark) 
 
-<div align="right>
-  ![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark&count_private=true) 
-</div>
+![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark&count_private=true) 
 
 ![Javy's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=javy99&theme=dark) 
 
