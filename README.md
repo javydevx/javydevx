@@ -94,7 +94,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=light) 
+![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&layout=compact&theme=dark) 
 
