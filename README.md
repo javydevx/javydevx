@@ -94,11 +94,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=radical) 
+![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&layout=compact&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&layout=compact&theme=dark) 
 
-![Javy's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=javy99&theme=radical) 
+![Javy's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=javy99&theme=dark) 
 
-![Javy's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=javy99&theme=react-dark)
+![Javy's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=javy99&theme=dark)
 
