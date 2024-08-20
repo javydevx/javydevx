@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Uzbekistan. Currently studying and working in Budapest, Hungary</h3>
 <div>&nbsp;</div>
 <div>
-  <img align="right" alt="Coding" width="300"   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
+  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 🔭 I’m currently working on **my GitHub**
 
 🌱 I’m currently learning **Next.js**
@@ -12,7 +12,6 @@
 ⚡ Fun fact: **I look younger than my actual age :)**
 
 📫 How to reach me: **javlonbek.kosimov.99@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -92,22 +91,11 @@
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
   </a> 
 </p>
-</div>
 
-
-
-
-<!--
-**javy99/javy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡️ Fun fact: ...
--->
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  ![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&layout=compact&theme=radical)
+  ![Javy's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=javy99&theme=radical)
+  [![Javy's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=javy99&theme=react-dark)](https://github.com/javy99/github-readme-activity-graph)
+</p>
