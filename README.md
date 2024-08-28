@@ -98,8 +98,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&theme=dark) 
 
 ![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark&count_private=true) 
-
-![Javy's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=javy99&theme=dark) 
-
-![Javy's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=javy99&theme=react-dark)
-
