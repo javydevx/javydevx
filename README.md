@@ -45,13 +45,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
+
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&theme=dark" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark&count_private=true" alt="Javy's GitHub stats" width="49%" />
-</div>
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&theme=dark) 
-
 ![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark&count_private=true) 
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=javy99)
