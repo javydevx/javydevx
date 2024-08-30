@@ -51,4 +51,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark&count_private=true" alt="Javy's GitHub stats"/>
 </div>
 
+<br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=javy99)
