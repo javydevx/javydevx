@@ -44,12 +44,9 @@
 <h3 align="left">Mermaid Flowchart:</h3>
 
 <h3 align="left">GitHub Stats:</h3>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&theme=dark" alt="Top Languages" width="300" />
+<div style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&theme=dark" alt="Top Languages" width="300" style="margin-right: 20px" />
   <img src="https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark&count_private=true" alt="Javy's GitHub stats"/>
 </div>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&theme=dark) 
-![Javy's GitHub stats](https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark&count_private=true) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=javy99)
