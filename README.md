@@ -50,5 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&theme=dark" alt="Top Languages" width="300"/>
   <img src="https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark&count_private=true" alt="Javy's GitHub stats"/>
 </div>
+
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=javy99)
+
+![Profile Views](https://komarev.com/ghpvc/?username=javy99&abbreviated=true)
