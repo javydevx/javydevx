@@ -44,7 +44,7 @@
 <h3 align="left">Mermaid Flowchart:</h3>
 
 <h3 align="left">GitHub Stats:</h3>
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javy99&theme=dark" alt="Top Languages" width="300"/>
   <img src="https://github-readme-stats.vercel.app/api?username=javy99&show_icons=true&theme=dark&count_private=true" alt="Javy's GitHub stats"/>
 </div>
