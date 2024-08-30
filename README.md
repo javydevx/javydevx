@@ -44,6 +44,9 @@
 <h3 align="left">Mermaid Flowchart:</h3>
 
 
+<h3 align="left">Mermaid Flowchart:</h3>
+
+```mermaid
 graph TD;
     A[User Starts] --> B[Choose a Path];
     B -->|Path 1| C[Path 1: Do something];
