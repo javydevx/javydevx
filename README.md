@@ -22,7 +22,7 @@
 
 ## Languages and Tools
 <p align="left">
-    <a href="https://github.com/thinkright20">
+    <a href="https://github.com/javy99">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,mongodb,photoshop,react,nextjs,bootstrap,sass,jest,python,go,docker,kubernetes,selenium,figma,git,gulp,jenkins" />
     </a>
 </p>
