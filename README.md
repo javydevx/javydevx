@@ -1,14 +1,14 @@
 <h2 align="center">Hi 👋, I'm Javlonbek Kosimov. You can call me Javy!</h2>
-<h3 align="center">A passionate Software Engineer from Uzbekistan. I recently graduated with a degree in Computer Science from ELTE University and am currently working as a Software Engineer in Budapest, Hungary.</h3>
+<h3 align="center">A passionate Software Engineer from Uzbekistan. I recently graduated with a degree in Computer Science from ELTE University and am currently working as a Software Engineer at Nokia in Budapest, Hungary.</h3>
 
 <div>&nbsp;</div>
 <div>
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 🔭 I’m currently working on **my GitHub**
 
-🌱 I’m currently learning **Next.js**
+🌱 I’m currently learning **Golang**
 
-👯 I’m looking to collaborate on **frontend development**
+👯 I’m looking to collaborate on **backend development**
 
 ⚡ Fun fact: **I look younger than my actual age :)**
 
