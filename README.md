@@ -6,7 +6,7 @@
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 🔭 I’m currently working on **my GitHub**
 
-🌱 I’m currently learning **Golang**
+🌱 I’m currently learning **Cloud-native development**
 
 👯 I’m looking to collaborate on **backend development**
 
