@@ -6,9 +6,10 @@ Passionate Software Engineer from Uzbekistan with a Bachelor's degree in Compute
 <div>&nbsp;</div>
 <div>
   <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
-🔭 I’m currently working on **my GitHub**
 
-🌱 I’m currently learning **Cloud-native development**
+🔭 I’m currently working on **my GitHub projects**
+
+🌱 I’m currently learning **cloud-native development**
 
 👯 I’m looking to collaborate on **backend development**
 
