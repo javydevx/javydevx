@@ -26,7 +26,7 @@ Passionate Software Engineer from Uzbekistan with a Bachelor's degree in Compute
 ## Languages and Tools
 <p align="center">
   <a href="https://github.com/javydevx">
-    <img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,docker,kubernetes,helm,react,nextjs,nodejs,express,postgresql,mongodb,robotframework,git,jenkins" />
+    <img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,docker,kubernetes,redis,react,nextjs,nodejs,express,postgresql,mongodb,git,jenkins,ubuntu" />
   </a>
 </p>
 
