@@ -27,12 +27,6 @@
     </a>
 </p>
 
-## My Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javydevx&show_icons=true&layout=compact&theme=dark" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=javydevx&show_icons=true&theme=dark&count_private=true" alt="Javy's GitHub stats" height="165px"/>
-</div>
-
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=javydevx&abbreviated=true)
