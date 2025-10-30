@@ -29,5 +29,5 @@ Passionate Software Engineer from Uzbekistan with a Bachelor's degree in Compute
     <img src="https://skillicons.dev/icons?i=go,python,javascript,typescript,docker,kubernetes,redis,react,nextjs,nodejs,express,postgresql,mongodb,git,jenkins,linux,ubuntu,nginx" />
   </a>
 </p>
-
+</br>
 ![Profile Views](https://komarev.com/ghpvc/?username=javydevx&abbreviated=true)
