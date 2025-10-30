@@ -30,7 +30,4 @@ Passionate Software Engineer from Uzbekistan with a Bachelor's degree in Compute
   </a>
 </p>
 
-
-<br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=javydevx&abbreviated=true)
