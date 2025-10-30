@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋, I'm Javlonbek Kosimov. You can call me Javy!</h2>
-<h3 align="center">A passionate Software Engineer from Uzbekistan. I graduated with a degree in Computer Science from ELTE University and I am currently working as a Software Engineer at Nokia in Budapest, Hungary.</h3>
+<h3 align="center">
+Passionate Software Engineer from Uzbekistan with a Bachelor's degree in Computer Science from ELTE University. Currently working as a Software Engineer at Nokia.
+</h3>
 
 <div>&nbsp;</div>
 <div>
