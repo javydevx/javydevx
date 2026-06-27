@@ -20,7 +20,7 @@ Passionate Software Engineer from Uzbekistan with a Bachelor's degree in Compute
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/javydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javlonbek-kosimov" height="30" width="40" /></a>
-<a href="https://instagram.com/javyk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javyk_" height="30" width="40" /></a>
+<a href="https://instagram.com/javy.logs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javyk_" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
